@@ -1,0 +1,5 @@
+Starting a Computer
+Thiscomputer function that starts the computer involves powering up the computer. 
+The CPU is powered up and does a resets it self. 
+Then the BIOS is runs, this does checks of the sytem and  makes sure that everything is connected properly and there are no errors.
+Then the Kernel is loaded then other parts of the operating system are loaded as well..
