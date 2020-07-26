@@ -9,3 +9,11 @@ This computer function is responnsible for shutting down the computer. There are
 It turns off unneeded functions and powers down the computer in a low-power state.
 If you have Hibernation avaiable the computer save open doscuments, running programs and apps t the hard drive.
 The powers down to computer to a low power state.
+
+Managing Programs.
+If the Operating system is single tasking, it means that only one program can be active art at time.
+If the operating system is a multi tasking Operating system will be able to have more that one program running atthe same time.
+The opertating system mangaes which program is active and which are in the background. 
+The user can switch between program without closing one program to open another.
+The compuer also manages other programs as requiered by the user actions.
+It also manges installing and deleteing programs from the Operating system.
