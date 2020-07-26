@@ -1,5 +1,11 @@
 Starting a Computer
-Thiscomputer function that starts the computer involves powering up the computer. 
+This computer function that starts the computer involves powering up the computer. 
 The CPU is powered up and does a resets it self. 
 Then the BIOS is runs, this does checks of the sytem and  makes sure that everything is connected properly and there are no errors.
 Then the Kernel is loaded then other parts of the operating system are loaded as well..
+
+Shutting Down Computers.
+This computer function is responnsible for shutting down the computer. There are several mode that it cna used depending on which  OS you have. It power the unit off. There is a sleep mode saves open documents, running programsandr apps to RAM.
+It turns off unneeded functions and powers down the computer in a low-power state.
+If you have Hibernation avaiable the computer save open doscuments, running programs and apps t the hard drive.
+The powers down to computer to a low power state.
